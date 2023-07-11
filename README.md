@@ -2,10 +2,7 @@
 ![Codewars](https://www.codewars.com/users/Snp_80/badges/large)
 <br><br>
 ## :sparkles: About me
-My name is Grzegorz, I come from Stalowa Wola, a city located in the south-eastern part of Poland. 
-I currently live in the beautiful city of Krakow, where I graduated from the AGH University of Science and Technology, majoring in materials engineering.
-Apart from programming, I am interested in history and cooking. 
-Another passion of mine is football, which I have been playing for many years, thanks to which I understand how important teamwork is.
+I am Junior Full Stack Developer, after an intensive one-year course at Codecool. I currently live in the beautiful city of Krakow, where I graduated from the AGH University of Science and Technology, majoring in materials engineering. Apart from programming, I am interested in football, which I have been playing for many years, thanks to which I understand how important teamwork is.
 <br><br>
 ***🔎I am looking for a job as a Junior Developer, I am interested in developing and learning about new technologies.***
 <br><br>
